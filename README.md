@@ -17,7 +17,10 @@ Heroku
 
 ## Screenshot 
 
+![PWA SCREENSHOT](/public/screenshot.png)
+
 ## Deployed Links 
 
 [Heroku Link](https://whispering-stream-46902.herokuapp.com/) 
-[Repo]()
+[Repo](https://github.com/anjulituck/budgettracker)
+
