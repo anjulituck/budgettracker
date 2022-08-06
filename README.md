@@ -12,7 +12,7 @@ Express
 Manifest.json 
 Service Worker 
 IndexDB
-MongoAtlas
+MongoDB Atlas
 Heroku
 
 ## Screenshot 
