@@ -6,14 +6,14 @@ In this project, we are making a budget tracker PWA. This will allow a user to t
 
 ## Technologies 
 
-Javascript 
-Mongoose
-Express
-Manifest.json 
-Service Worker 
-IndexDB
-MongoDB Atlas
-Heroku
+- Javascript 
+- Mongoose
+- Express
+- Manifest.json 
+- Service Worker 
+- IndexDB
+- MongoDB Atlas
+- Heroku
 
 ## Screenshot 
 
@@ -21,6 +21,6 @@ Heroku
 
 ## Deployed Links 
 
-[Heroku Link](https://whispering-stream-46902.herokuapp.com/) 
-[Repo](https://github.com/anjulituck/budgettracker)
+- [Heroku Link](https://whispering-stream-46902.herokuapp.com/) 
+- [Repo](https://github.com/anjulituck/budgettracker)
 
