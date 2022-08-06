@@ -7,6 +7,7 @@ const FILES_TO_CACHE = [
   "./public/styles.css",
   "./public/js/index.js",
   "./public/js/idb.js",
+  "./public/manifest.json",
   "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
   "https://cdn.jsdelivr.net/npm/chart.js@2.8.0"
 
